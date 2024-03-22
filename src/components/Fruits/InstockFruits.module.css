@@ -11,6 +11,21 @@
     padding: 0;
 }
 
+.loader,
+.error {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.error {
+    color: red;
+    font-size: 1.5rem;
+}
+
+.error-icon {
+    width: 100px;
+}
+
 @keyframes fruits-appear {
     from {
         opacity: 0;

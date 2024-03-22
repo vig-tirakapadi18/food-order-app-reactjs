@@ -44,3 +44,13 @@
     background-color: #87a922;
     color: white;
 }
+
+.success-msg,
+.loader {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.check-mark {
+    width: 70px;
+}
